@@ -1,5 +1,3 @@
-When you're already in the views directory create a file named states.py then put these in it..
-
 #!/usr/bin/python3
 '''
     RESTful API for class State
